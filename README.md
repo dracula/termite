@@ -1,8 +1,8 @@
-# Dracula for [termite](https://github.com/thestinger/termite)
+# Dracula for [Termite](https://github.com/thestinger/termite)
 
-> A dark theme for [termite](https://github.com/thestinger/termite).
+> A dark theme for [Termite](https://github.com/thestinger/termite).
 
-![Screenshot](/screenshot.png?raw=true)
+![Screenshot](/screenshot.png)
 
 ## Install
 
